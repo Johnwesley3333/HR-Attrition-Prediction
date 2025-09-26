@@ -102,8 +102,8 @@ streamlit run app/app.py
 | OverTime    | Yes |
 | Job Role    | Sales Executive |
 | JobSatisfaction  | 3 |
-Predicted Attrition Probability: 0.72
-redicted Class: Yes
+|Predicted Attrition Probability:| 0.72|
+|redicted Class:| Yes|
 
 ## 📉 **Conclusion**
 This project provides a **data-driven approach** to predict employee attrition. The **Random Forest model** and interactive dashboard help HR teams identify at-risk employees and improve retention strategies.
